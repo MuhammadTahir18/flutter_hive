@@ -1,16 +1,19 @@
-# flutter_hive
+# Notes App (Hive Database)
 
-A new Flutter project.
+A simple and fast Notes App built using Flutter & Hive Database for local data storage.
+It allows users to create, edit, and delete notes with a smooth experience.
 
-## Getting Started
+# Features
+Add new notes
+Edit existing notes
+Delete notes
+Local storage using Hive
+Fast & lightweight
+#  Tech Stack
+Flutter
+Dart
+Hive Database
+📸 Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add your screenshots here)
